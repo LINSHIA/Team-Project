@@ -1,1 +1,3 @@
 Completing 2:(3) task in the exercise
+
+Creating a merge conflict
