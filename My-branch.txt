@@ -11,5 +11,6 @@ This branch should be merged into the master branch with all of the changes made
 
 New changes
 
+Creating a merge conflict here
 
 
