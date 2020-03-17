@@ -11,5 +11,5 @@ This branch should be merged into the master branch with all of the changes made
 
 New changes
 
-
+This is where the merge conflict will happen
 
