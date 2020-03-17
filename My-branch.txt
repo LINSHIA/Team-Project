@@ -1,0 +1,6 @@
+
+1: Create a brand new GitHub Repository for your entire group as a whole. 
+Only one GitHub repository for all group members. 
+You will all be sharing this repository. 
+Ensure that all members are added and able to contribute.
+
