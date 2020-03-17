@@ -9,5 +9,11 @@ Ensure that all members are added and able to contribute.
 make modifications to currently existing files on this branch. 
 This branch should be merged into the master branch with all of the changes made.
 
+3: Each member is to create a merge conflict with at least one other member and 
+then try to resolve it. (Please consult the TAs if you have too much difficulty with the merge 
+conflict created.) The result of this merge conflict and merge conflict resolution 
+should also be committed and pushed to the GitHub Repository.
+
+
 
 
