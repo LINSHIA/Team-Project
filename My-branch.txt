@@ -26,5 +26,11 @@ Creating a merge conflict here
 
 This is the resolution
 
+4: Each member is meant to create at least one pull request on GitHub.
+ Each member is expected to make at least one comment on a pull request. 
+This pull request should be merged into the GitHub repository by a different team member 
+than the one that initiated the pull request.
+
+
 
 
